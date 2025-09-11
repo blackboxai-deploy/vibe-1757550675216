@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Test Admin",
+    "email": "admin@test.com",
+    "password": "YWRtaW4xMjM=",
+    "role": "admin",
+    "contactNumber": "+1234567890",
+    "adminId": "ADM001",
+    "department": "Administration",
+    "id": "id_5msrc03hjmfenv97c",
+    "dateJoined": "2025-09-11T00:19:21.048Z",
+    "isActive": true
+  },
+  {
+    "name": "John Smith",
+    "email": "john@test.com",
+    "password": "c3R1ZGVudDEyMw==",
+    "role": "student",
+    "contactNumber": "+1234567891",
+    "studentId": "STU001",
+    "course": "Computer Science",
+    "year": "2nd Year",
+    "guardianName": "Jane Smith",
+    "guardianContact": "+1234567892",
+    "address": "123 Main St, City",
+    "emergencyContact": "+1234567893",
+    "id": "id_kcfb4znuimfenvkxd",
+    "dateJoined": "2025-09-11T00:19:36.241Z",
+    "isActive": true
+  },
+  {
+    "name": "Warden Smith",
+    "email": "warden@test.com",
+    "password": "d2FyZGVuMTIz",
+    "role": "warden",
+    "contactNumber": "+1234567894",
+    "wardenId": "WAR001",
+    "assignedBlocks": [
+      "Block A",
+      "Block B"
+    ],
+    "shiftTiming": "Evening (2 PM - 10 PM)",
+    "id": "id_599zveaocmfeo3ywm",
+    "dateJoined": "2025-09-11T00:26:07.606Z",
+    "isActive": true
+  }
+]
