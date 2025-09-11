@@ -1,0 +1,110 @@
+[
+  {
+    "id": "room_001",
+    "roomNumber": "A101",
+    "block": "Block A",
+    "floor": 1,
+    "type": "single",
+    "capacity": 1,
+    "currentOccupancy": 0,
+    "monthlyRent": 5000,
+    "amenities": ["Wi-Fi", "Study Table", "Wardrobe", "Fan"],
+    "status": "available",
+    "images": [
+      "https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/d9d457ee-5da6-4d24-9606-d0a916b663f1.png",
+      "https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/90243d6c-3d6e-485d-a487-631883862172.png"
+    ],
+    "description": "Comfortable single occupancy room with modern amenities and excellent ventilation.",
+    "lastUpdated": "2024-01-15T10:00:00Z"
+  },
+  {
+    "id": "room_002",
+    "roomNumber": "A102",
+    "block": "Block A",
+    "floor": 1,
+    "type": "double",
+    "capacity": 2,
+    "currentOccupancy": 1,
+    "monthlyRent": 4000,
+    "amenities": ["Wi-Fi", "Study Tables", "Wardrobes", "Fan", "Attached Bathroom"],
+    "status": "occupied",
+    "images": [
+      "https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/1f075393-e78d-47d0-a9b4-a7ff87ad5c54.png",
+      "https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/75d2c1ff-4f96-407f-9728-4ad975d7b50e.png"
+    ],
+    "description": "Spacious double sharing room with individual study areas and ample storage space.",
+    "lastUpdated": "2024-01-15T10:00:00Z"
+  },
+  {
+    "id": "room_003",
+    "roomNumber": "A201",
+    "block": "Block A",
+    "floor": 2,
+    "type": "single",
+    "capacity": 1,
+    "currentOccupancy": 0,
+    "monthlyRent": 5500,
+    "amenities": ["Wi-Fi", "Study Table", "Wardrobe", "AC", "Balcony"],
+    "status": "available",
+    "images": [
+      "https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/66c961e8-8e12-4f60-8845-0400b8076c97.png",
+      "https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/dd42deec-e048-47e9-9470-240985305b54.png"
+    ],
+    "description": "Premium single room with air conditioning and private balcony overlooking the campus.",
+    "lastUpdated": "2024-01-15T10:00:00Z"
+  },
+  {
+    "id": "room_004",
+    "roomNumber": "B101",
+    "block": "Block B",
+    "floor": 1,
+    "type": "triple",
+    "capacity": 3,
+    "currentOccupancy": 2,
+    "monthlyRent": 3500,
+    "amenities": ["Wi-Fi", "Study Tables", "Wardrobes", "Fan"],
+    "status": "occupied",
+    "images": [
+      "https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/1e96d7a9-fcac-4c1d-8273-62892e77193e.png",
+      "https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/1f8da0a9-05dd-4e9a-9775-4a380fac68d2.png"
+    ],
+    "description": "Economic triple sharing room perfect for students looking for budget-friendly accommodation.",
+    "lastUpdated": "2024-01-15T10:00:00Z"
+  },
+  {
+    "id": "room_005",
+    "roomNumber": "B102",
+    "block": "Block B",
+    "floor": 1,
+    "type": "double",
+    "capacity": 2,
+    "currentOccupancy": 0,
+    "monthlyRent": 4200,
+    "amenities": ["Wi-Fi", "Study Tables", "Wardrobes", "Fan", "Common Balcony"],
+    "status": "available",
+    "images": [
+      "https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/ba70140c-dafd-4b05-b6fd-4639f207c082.png",
+      "https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/f74d18d0-8399-43d0-b502-0970a804428d.png"
+    ],
+    "description": "Bright double room with access to common balcony and excellent natural lighting.",
+    "lastUpdated": "2024-01-15T10:00:00Z"
+  },
+  {
+    "id": "room_006",
+    "roomNumber": "C301",
+    "block": "Block C",
+    "floor": 3,
+    "type": "single",
+    "capacity": 1,
+    "currentOccupancy": 0,
+    "monthlyRent": 6000,
+    "amenities": ["Wi-Fi", "Study Table", "Wardrobe", "AC", "Attached Bathroom", "Balcony"],
+    "status": "maintenance",
+    "images": [
+      "https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/0749a775-e871-48fb-9be0-31a92a7c7410.png",
+      "https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/432395ac-54ad-48b0-b8c3-e797821ade71.png"
+    ],
+    "description": "Deluxe single room with premium amenities currently under maintenance for upgrades.",
+    "lastUpdated": "2024-01-15T10:00:00Z"
+  }
+]
